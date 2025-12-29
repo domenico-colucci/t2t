@@ -1,0 +1,4 @@
+1. In terminal: cd to project folder
+2. Conda activate ttmachines (to activate virtual env)
+3. export OPENAI_API_KEY=PASTE KEY HERE
+4. talkingtomachines template_name.xlsx 

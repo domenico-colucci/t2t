@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails / Finder
+Icon?
+._*
+
+# Spotlight / Time Machine / trash
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Excel temp/lock files
+~$*.xls
+~$*.xlsx
+
+# R session/user files
+.RHistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
